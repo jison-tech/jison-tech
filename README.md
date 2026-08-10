@@ -1,3 +1,45 @@
+
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  jison@github:~$ whoami                                      │
+│                                                              │
+│  Jison R                                                     │
+│  Artificial Intelligence & Data Science Student              │
+│  Aspiring AI / Full-Stack Engineer                           │
+│                                                              │
+│  jison@github:~$ interests                                   │
+│                                                              │
+│  Artificial Intelligence • Generative AI • Machine Learning  │
+│  RAG • AI Agents • Full-Stack Development                    │
+│                                                              │
+│  jison@github:~$ stack                                       │
+│                                                              │
+│  Frontend   → Next.js • React • TypeScript • Tailwind CSS    │
+│  Backend    → Node.js • Express.js • REST • GraphQL          │
+│  AI         → Python • ML • RAG • Generative AI • Agents     │
+│  Platforms  → Shopify Headless • Apollo Client               │
+│  Tools      → Git • GitHub • Figma • Postman • n8n           │
+│                                                              │
+│  jison@github:~$ projects                                    │
+│                                                              │
+│  → Oceanix                                                   │
+│    AI-powered disaster-management & data platform            │
+│                                                              │
+│  → Multimodal RAG System                                     │
+│    Retrieval-Augmented Generation with multimodal data       │
+│                                                              │
+│  → Headless E-Commerce                                       │
+│    Next.js + GraphQL + Shopify Storefront API                │
+│                                                              │
+│  jison@github:~$ current                                     │
+│                                                              │
+│  Building • Learning • Experimenting • Improving             │
+│                                                              │
+│  jison@github:~$ status                                      │
+│                                                              │
+│  ████████████████████████████████████  ONLINE               │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 # 💫 About Me:
 Hi, I’m Jison, an Artificial Intelligence & Data Science student and aspiring AI/Full-Stack Engineer who enjoys building practical, technology-driven solutions. I’m particularly interested in Full-Stack Development, Artificial Intelligence, Generative AI, Machine Learning, AI Agents, and modern developer tools. I like going beyond simply using technologies—I enjoy understanding how they work, designing systems from the ground up, and turning ideas into functional applications. I’ve worked on projects involving AI-powered applications, multimodal RAG systems, disaster-management platforms, data analytics, and web/mobile applications. Currently, I’m working as an intern at RESCIGER, where I’m gaining practical experience in modern web development and working on a headless e-commerce application. I’m currently learning Python for AI, along with Machine Learning, Generative AI, RAG, AI Agents, and modern AI development workflows. I’m always interested in collaborating on AI, Machine Learning, Generative AI, AI Agent, and Full-Stack projects, and I enjoy learning by building, experimenting with new technologies, and continuously improving. Feel free to ask me about Next.js, React, TypeScript, GraphQL, Shopify Headless, AI/ML, RAG, AI Agents, and Full-Stack Development. Fun fact: I enjoy turning ideas into working projects and learning new technologies by actually building with them.
 
