@@ -1,6 +1,15 @@
 # 💫 About Me:
-Hi, I’m Jison, an Artificial Intelligence & Data Science student and aspiring AI/Full-Stack Engineer who enjoys building practical, technology-driven solutions. I’m particularly interested in Full-Stack Development, Artificial Intelligence, Generative AI, Machine Learning, AI Agents, and modern developer tools. I like going beyond simply using technologies—I enjoy understanding how they work, designing systems from the ground up, and turning ideas into functional applications. I’ve worked on projects involving AI-powered applications, multimodal RAG systems, disaster-management platforms, data analytics, and web/mobile applications. Currently, I’m working as an intern at RESCIGER, where I’m gaining practical experience in modern web development and working on a headless e-commerce application. I’m currently learning Python for AI, along with Machine Learning, Generative AI, RAG, AI Agents, and modern AI development workflows. I’m always interested in collaborating on AI, Machine Learning, Generative AI, AI Agent, and Full-Stack projects, and I enjoy learning by building, experimenting with new technologies, and continuously improving. Feel free to ask me about Next.js, React, TypeScript, GraphQL, Shopify Headless, AI/ML, RAG, AI Agents, and Full-Stack Development. Fun fact: I enjoy turning ideas into working projects and learning new technologies by actually building with them.
 
+Hi, I’m Jison, an Artificial Intelligence & Data Science student and aspiring AI/Full-Stack Engineer. I enjoy building practical applications and learning new technologies by turning ideas into working projects. I’m interested in AI, Generative AI, Machine Learning, RAG, AI Agents, and Full-Stack Development.
+
+## 💼 Current Status:
+
+- 🎓 AI & Data Science Student
+- 💻 AI / Full-Stack Engineering Enthusiast
+- 🏢 Currently interning at RESCIGER
+- 🚀 Working on a headless e-commerce application
+- 📚 Currently learning Python for AI, Machine Learning, Generative AI, RAG, and AI Agents
+- 🤝 Open to collaborating on AI, AI Agent, Machine Learning, and Full-Stack projects
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jisonz.__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jisonbtech) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jison.btech@gmail.com) 
